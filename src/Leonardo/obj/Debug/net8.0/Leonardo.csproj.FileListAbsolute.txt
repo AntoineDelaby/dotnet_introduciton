@@ -1,0 +1,11 @@
+/Users/antoine/Fibonacci/src/Leonardo/bin/Debug/net8.0/Leonardo.deps.json
+/Users/antoine/Fibonacci/src/Leonardo/bin/Debug/net8.0/Leonardo.dll
+/Users/antoine/Fibonacci/src/Leonardo/bin/Debug/net8.0/Leonardo.pdb
+/Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/Leonardo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/Leonardo.AssemblyInfoInputs.cache
+/Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/Leonardo.AssemblyInfo.cs
+/Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/Leonardo.csproj.CoreCompileInputs.cache
+/Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/Leonardo.dll
+/Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/refint/Leonardo.dll
+/Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/Leonardo.pdb
+/Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/ref/Leonardo.dll

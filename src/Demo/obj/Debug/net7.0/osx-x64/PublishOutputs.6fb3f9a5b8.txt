@@ -1,0 +1,2 @@
+/Users/antoine/Demo/bin/Debug/net7.0/osx-x64/publish/Demo.pdb
+/Users/antoine/Demo/bin/Debug/net7.0/osx-x64/publish/Demo

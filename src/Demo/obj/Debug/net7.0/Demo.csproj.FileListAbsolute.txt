@@ -1,0 +1,14 @@
+/Users/antoine/Demo/bin/Debug/net7.0/Demo
+/Users/antoine/Demo/bin/Debug/net7.0/Demo.deps.json
+/Users/antoine/Demo/bin/Debug/net7.0/Demo.runtimeconfig.json
+/Users/antoine/Demo/bin/Debug/net7.0/Demo.dll
+/Users/antoine/Demo/bin/Debug/net7.0/Demo.pdb
+/Users/antoine/Demo/obj/Debug/net7.0/Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoine/Demo/obj/Debug/net7.0/Demo.AssemblyInfoInputs.cache
+/Users/antoine/Demo/obj/Debug/net7.0/Demo.AssemblyInfo.cs
+/Users/antoine/Demo/obj/Debug/net7.0/Demo.csproj.CoreCompileInputs.cache
+/Users/antoine/Demo/obj/Debug/net7.0/Demo.dll
+/Users/antoine/Demo/obj/Debug/net7.0/refint/Demo.dll
+/Users/antoine/Demo/obj/Debug/net7.0/Demo.pdb
+/Users/antoine/Demo/obj/Debug/net7.0/Demo.genruntimeconfig.cache
+/Users/antoine/Demo/obj/Debug/net7.0/ref/Demo.dll
