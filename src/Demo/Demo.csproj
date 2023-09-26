@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Leonardo.Web\Leonardo.Web.csproj" />
     <ProjectReference Include="..\Leonardo\Leonardo.csproj" />
   </ItemGroup>
 

@@ -16,3 +16,11 @@
 /Users/antoine/Fibonacci/src/Demo/obj/Debug/net8.0/Demo.pdb
 /Users/antoine/Fibonacci/src/Demo/obj/Debug/net8.0/Demo.genruntimeconfig.cache
 /Users/antoine/Fibonacci/src/Demo/obj/Debug/net8.0/ref/Demo.dll
+/Users/antoine/Fibonacci/src/Demo/bin/Debug/net8.0/Leonardo.Web.deps.json
+/Users/antoine/Fibonacci/src/Demo/bin/Debug/net8.0/Leonardo.Web.runtimeconfig.json
+/Users/antoine/Fibonacci/src/Demo/bin/Debug/net8.0/appsettings.Development.json
+/Users/antoine/Fibonacci/src/Demo/bin/Debug/net8.0/appsettings.json
+/Users/antoine/Fibonacci/src/Demo/bin/Debug/net8.0/Leonardo.Web
+/Users/antoine/Fibonacci/src/Demo/bin/Debug/net8.0/Leonardo.Web.dll
+/Users/antoine/Fibonacci/src/Demo/bin/Debug/net8.0/Leonardo.Web.pdb
+/Users/antoine/Fibonacci/src/Demo/obj/Debug/net8.0/Demo.sourcelink.json

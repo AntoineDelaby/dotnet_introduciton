@@ -9,3 +9,4 @@
 /Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/refint/Leonardo.dll
 /Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/Leonardo.pdb
 /Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/ref/Leonardo.dll
+/Users/antoine/Fibonacci/src/Leonardo/obj/Debug/net8.0/Leonardo.sourcelink.json
