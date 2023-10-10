@@ -4,126 +4,6 @@
     "/Users/antoine/Fibonacci/tests/Leonardo.Tests/Leonardo.Tests.csproj": {}
   },
   "projects": {
-    "/Users/antoine/Fibonacci/src/Demo/Demo.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/antoine/Fibonacci/src/Demo/Demo.csproj",
-        "projectName": "Demo",
-        "projectPath": "/Users/antoine/Fibonacci/src/Demo/Demo.csproj",
-        "packagesPath": "/Users/antoine/.nuget/packages/",
-        "outputPath": "/Users/antoine/Fibonacci/src/Demo/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/antoine/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "/Users/antoine/Fibonacci/src/Leonardo.Web/Leonardo.Web.csproj": {
-                "projectPath": "/Users/antoine/Fibonacci/src/Leonardo.Web/Leonardo.Web.csproj"
-              },
-              "/Users/antoine/Fibonacci/src/Leonardo/Leonardo.csproj": {
-                "projectPath": "/Users/antoine/Fibonacci/src/Leonardo/Leonardo.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/antoine/Fibonacci/src/Leonardo.Web/Leonardo.Web.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/antoine/Fibonacci/src/Leonardo.Web/Leonardo.Web.csproj",
-        "projectName": "Leonardo.Web",
-        "projectPath": "/Users/antoine/Fibonacci/src/Leonardo.Web/Leonardo.Web.csproj",
-        "packagesPath": "/Users/antoine/.nuget/packages/",
-        "outputPath": "/Users/antoine/Fibonacci/src/Leonardo.Web/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/antoine/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "/Users/antoine/Fibonacci/src/Leonardo/Leonardo.csproj": {
-                "projectPath": "/Users/antoine/Fibonacci/src/Leonardo/Leonardo.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-rc.1.23463.5/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "/Users/antoine/Fibonacci/src/Leonardo/Leonardo.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -199,9 +79,6 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/antoine/Fibonacci/src/Demo/Demo.csproj": {
-                "projectPath": "/Users/antoine/Fibonacci/src/Demo/Demo.csproj"
-              },
               "/Users/antoine/Fibonacci/src/Leonardo/Leonardo.csproj": {
                 "projectPath": "/Users/antoine/Fibonacci/src/Leonardo/Leonardo.csproj"
               }

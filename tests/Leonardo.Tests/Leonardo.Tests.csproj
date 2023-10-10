@@ -27,7 +27,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Demo\Demo.csproj" />
     <ProjectReference Include="..\..\src\Leonardo\Leonardo.csproj" />
   </ItemGroup>
 

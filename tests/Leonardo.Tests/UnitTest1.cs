@@ -5,9 +5,8 @@ public class UnitTest1
     [Fact]
     public async Task Test1()
     {
-        var results = await Fibonacci.RunAsync(new string[] {"1", "2", "3"});
-        Assert.Equal(1, results[0]);
-        Assert.Equal(1, results[1]);
-        Assert.Equal(2, results[2]);
+        var results = await Fibonacci.RunAsync(new string[] { "44", "22" });
+        Assert.Equal(701408733, results[0]);
+        Assert.Equal(17711, results[1]);
     }
 }
